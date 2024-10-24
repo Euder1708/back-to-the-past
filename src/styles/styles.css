@@ -10,7 +10,7 @@ body {
 
 .main-header {
     background-color: #333;
-    color: white;
+    color: rgb(153, 199, 243);
     padding: 20px;
     text-align: center;
 }
@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(138, 180, 235);
     text-decoration: none;
 }
 
@@ -44,7 +44,7 @@ nav ul li a {
 
 .main-footer {
     background-color: #333;
-    color: white;
+    color: rgb(183, 203, 253);
     text-align: center;
     padding: 10px 0;
     position: fixed;
